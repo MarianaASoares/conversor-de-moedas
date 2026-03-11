@@ -32,7 +32,7 @@
 
 # :camera: Preview
 
-  <img src="assets/img-projeto-conversor.png" width = "450"> 
+  <img src="assets/img-projeto-conversor.png" width = "100%"> 
 
 
   
